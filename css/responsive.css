@@ -1,1 +1,21 @@
 /* Soluzione qui */
+/*tablet*/
+@media screen and (min-width:768px) {
+    #topbar {
+        justify-content: flex-start;
+    }
+main { 
+    padding: 40px;
+}
+.recipe-origin {
+	display: contents;
+
+
+}
+
+/*desktop*/
+@media screen and (min-width:992px){
+    
+
+
+}
